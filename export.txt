@@ -1,0 +1,314 @@
+第1条记录, 共10条
+館藏地       主校区图书馆
+索书号       F272 642.
+主要責任者   西蒙 xi meng (Simon, Phil) 著
+题名         大数据可视化 da shu ju ke shi hua 重构智慧社会 = The 
+               visual organization data visualization, big data, and the quest
+               for better decisions (美) Phil Simon著 漆晨曦译 eng.
+题名         Visual organization : data visualization, big data, and
+               the quest for better decisions Chinese.
+出版发行     北京 人民邮电出版社 2015.
+载体形态     201页 彩图 24cm.
+丛编         新信息时代商业经济与管理译丛 xin xin xi shi dai shang 
+               ye jing ji yu guan li yi cong.
+丛编         2001  新信息时代商业经济与管理译丛
+附注         “十二五”国家重点图书出版规划项目
+附注         本书据2014年英文版译出
+附注         本书中文简体字版由John Wiley & Sons 
+               Ltd公司授权人民邮电出版社出版
+附注         责任者规范汉译姓: 西蒙
+附注         Phil Simon, 
+               是一位主题演讲者、公认的技术专家。漆晨曦, 
+               来自中国电信股份有限公司广州研究院市场运营研究团队, 
+               长期从事企业运营管理及市场研究工作。
+附注         有书目 (第193-194页)
+附注         本书包括四大部分。第Ⅰ部分, “全书概述和背景”, 
+               探讨了可视化组织快速发展背后的原因; 第Ⅱ部分, 
+               “可视化组织的介绍”, 
+               介绍了可视化组织如何拥抱大数据和数据可视; 第Ⅲ部分, “走起: 
+               成为可视化组织”, 从理解四个不同层面的可视化组织开始, 
+               然后基于案例研究推导出的教训、最佳实践、奇迹以及错误做法; 
+               第Ⅳ部分, “总结及数据可视的未来”, 
+               并对目前趋势、可视化组织、大数据以及数据可视的未来提供了一系
+               列严谨认真的预测。
+附注         
+               本书读者包括CXO、咨询师、自由职业者、中层管理者、入门级员工、
+               非在职专业人士、记者、教授以及高效学生等有志奋斗在数据洪流中
+               的所有人
+主题         企业管理 qi ye guan li 计算机应用
+其他责任者   漆晨曦 qi chen xi 译
+相关题名     重构智慧社会 chong gou zhi hui she hui.
+国际标准号   978-7-115-39269-5 CNY59.00.
+馆藏         dyy150709 YB150625 780.
+1 > 中文图书阅览室（C区2楼  F272 642                       馆内阅览
+2 > 流通书库(B区)           F272 642                       在架上
+
+第2条记录, 共10条
+館藏地       东校区图书馆 & 主校区图书馆
+索书号       TP311.13 712.
+主要責任者   默里 mo li (Murray, Scott) 著
+题名         数据可视化实战 shu ju ke shi hua shi zhan = Interactive
+               data visualization for the web 使用D3设计交互式图表 (美) Scott 
+               Murray著 李松峰译 eng.
+题名         Interactive data visualization for the web Chinese.
+出版发行     北京 人民邮电出版社 2013.
+载体形态     xv, 229页 图 24cm.
+丛编         图灵程序设计丛书 tu ling cheng xu she ji cong shu.
+丛编         2001  图灵程序设计丛书
+附注         责任者规范汉译姓: 默里
+附注         
+               本书作者通过风趣幽默的语言、简单易懂的示例，由浅入深地介绍了
+               使用D3所需的基本技术，以及基于数据绘图、比例尺、数轴、数据更
+               新、过渡和动画等构建交互式在线图表的核心概念，最后还介绍了
+               D3中常用的布局方法和创建地图等流行应用的技巧。
+主题         数据库系统 shu ju ku xi tong 程序设计
+其他责任者   李松峰 li song feng 译
+相关题名     使用D3设计交互式图表 shi yong D3 she ji jiao 
+               hu shi tu biao.
+国际标准号   978-7-115-32011-7 CNY59.00.
+馆藏         qj130709 YB130629 679.
+1 > 中文图书阅览室（C区2楼  TP311.13 712                   馆内阅览
+2 > 流通书库(B区)           TP311.13 712                   在架上
+3 > 流通书库(B区)           TP311.13 712                   在架上
+4 > 东校区分馆阅览室        TP311.13 712                   馆内阅览
+5 > 东校区分馆借还处        TP311.13 712                   在架上
+
+第3条记录, 共10条
+館藏地       主校区图书馆
+索书号       TP31 472.
+主要責任者   陈为 chen wei 编著
+主要責任者   沈则潜 shen ze qian 编著
+主要責任者   陶煜波 tao yu bo 编著
+题名         数据可视化 shu ju ke shi hua 陈为, 沈则潜, 陶煜波等编著
+出版发行     北京 电子工业出版社 2013.
+载体形态     xx, 647页 彩图 23cm.
+丛编         大数据丛书 da shu ju cong shu.
+丛编         2001  大数据丛书
+附注         十二五国家重点图书出版规划项目
+附注         有书目
+附注         
+               本书共有16章，分为4篇。基础篇，阐述数据可视化的基础理论和概念
+               ，从人的感知和认知出发，介绍数据模型和可视化基础；时空数据篇
+               ，介绍带有空间坐标或时间信息的数据的可视化方法，此类数据通过
+               设备在真实物理空间中采集得到或由科学计算模拟产生；非时空数据
+               篇，描述非结构化和非几何的抽象数据的可视化，这些数据既存在于
+               真实物理空间，又是社会空间和网络信息空间的基本表达形式；用户
+               篇，介绍面向各类数据的可视化在实际应用中共同需要的方法、技术
+               和工具，例如交互和可视化评测方法，以及在具体领域的可视化和应
+               用系统。
+主题         可视化软件 ke shi hua ruan jian.
+国际标准号   978-7-121-21154-6 CNY128.00.
+馆藏         cat28.
+馆藏         ①大数据丛书-----数据可视化
+1 > 中文图书阅览室（C区2楼  TP31 472                       馆内阅览
+2 > 流通书库(B区)           TP31 472                       上架中
+
+第4条记录, 共10条
+館藏地       主校区图书馆
+索书号       TP311.13 602.
+主要責任者   斯蒂尔 si di er (Steele, Julie) 编
+主要責任者   伊林斯基 yi li ying si (Iliinsky, Noah) 
+               编
+题名         数据可视化之美 Shu Ju Ke Shi Hua Zhi Mei Julie Steele, 
+               Noah Iliinsky编 祝洪凯, 李妹芳译
+题名         Beautiful visualization Chinese.
+出版发行     北京 机械工业出版社 2011.
+载体形态     357页 图 (部分彩图) 24cm.
+附注         由O'Reilly media, inc授权
+附注         CIP题丛书: O'Reilly精品图书系列
+附注         英文原题名取自封面
+附注         责任者Steele规范汉译姓: 斯蒂尔, 
+               责任者Iliinsky汉译姓: 伊林斯基
+附注         有书目
+主题         数据收集 shu ju shou ji.
+其他责任者   祝洪凯 Zhu Hong Kai 译
+其他责任者   李妹芳 Li Mei Fang 译
+国际标准号   978-7-111-33796-6 CNY89.00.
+1 > 中文图书阅览室（C区2楼  TP311.13 602                   馆内阅览
+2 > 流通书库(B区)           TP311.13 602                   在架上
+3 > 流通书库(B区)           TP311.13 602                   到期 15-12-25
+
+第5条记录, 共10条
+館藏地       东校区图书馆 & 主校区图书馆
+索书号       TP311.13 665.
+主要責任者   邱 qiu (Yau, Nathan) 著
+题名         鲜活的数据 xian huo de shu ju 数据可视化指南 (美) 
+               Nathan Yau著 向怡宁译
+题名         Visualize this : flowingdata guide to design 
+               visualization and statistics Chinese.
+出版发行     北京 人民邮电出版社 2012.
+载体形态     10, 281页, [16] 页图版 图 (部分彩图) 24cm.
+丛编         图灵程序设计丛书 tu ling cheng xu she ji cong shu.
+丛编         2001  图灵程序设计丛书
+附注         据2011年英文版译出
+附注         本书简体中文版由John Wiley & Sons,
+               Inc.授权人民邮电出版社独家出版
+附注         英文并列题名取自版权页
+附注         责任者Yau规范汉译姓: 邱
+附注         
+               本书教读者怎样寻找数据来源，或者通过编写代码(如Python)搜集数
+               据，然后用可视化工具(如R)对数据进行可视化，让无聊的数据和信息
+               变得更加易于让人接受。
+主题         数据处理 Shu Ju Chu Li 可视化仿真 指南
+其他责任者   向怡宁 xiang yi ning 译
+相关题名     数据可视化指南 Shu Ju Ke Shi Hua Zhi Nan.
+国际标准号   978-7-115-29381-7 CNY69.00.
+1 > 中文图书阅览室（C区2楼  TP311.13 665                   馆内阅览
+2 > 流通书库(B区)           TP311.13 665                   到期 15-12-25
+3 > 东校区分馆阅览室        TP311.13 665                   馆内阅览
+4 > 东校区分馆借还处        TP311.13 665                   在架上
+
+第6条记录, 共10条
+館藏地       主校区图书馆
+索书号       F716 63.
+主要責任者   绍库普, shao ku pu T. (Soukup, Tom) 著
+主要責任者   Soukup Tom 著
+主要責任者   戴维森, dai wei sen I. (Davidson, Ian) 
+               著
+主要責任者   Davidson Ian 著
+题名         可视化数据挖掘 ke shi hua shuo ju wa jue 
+               数据可视化和数据挖掘的技术与工具 = Visual data mining 
+               techniques and tools for data visualization and mining (美) Tom
+               Soukup, Ian Davidson著 朱建秋, 蔡伟杰译 eng.
+出版发行     北京 电子工业出版社 2004.
+载体形态     322页, [8] 页图版 图 24cm.
+丛编         数据仓库与数据挖掘技术应用丛书 shuo ju cang ku yu shuo 
+               ju wa jue ji zhu ying yong cong shu.
+丛编         2001  数据仓库与数据挖掘技术应用丛书
+附注         据John Wiley & Sons, Inc. 2002年英文版译出
+附注         由John Wiley & Sons授权电子工业出版社出版
+附注         责任者 (Soukup) 规范汉译姓: 绍库普
+附注         责任者 (Davidson) 规范汉译姓: 戴维森
+主题         数据采集 shuo ju cai ji.
+主题         数据采集 shuo ju cai ji 计算机应用 商业经营
+其他责任者   朱建秋 zhu jian qiu 译
+其他责任者   蔡伟杰 cai wei jie 译
+相关题名     Visual data mining techniques and tools for 
+               data visualization and mining eng.
+相关题名     数据可视化和数据挖掘的技术与工具 shuo ju ke 
+               shi hua hu shuo ju wa jue de ji zhu yu gong ju.
+国际标准号   7-5053-9301-4 CNY58.00.
+1 > 中文图书阅览室（C区2楼  F716 63                        馆内阅览
+2 > 流通书库(B区)           F716 63                        在架上
+3 > 流通书库(B区)           F716 63                        在架上
+4 > 流通书库(B区)           F716 63                        在架上
+5 > 东校区分馆阅览室        F716 63                        馆内阅览
+6 > 东校区分馆借还处        F716 63                        在架上
+
+第7条记录, 共10条
+館藏地       东校区图书馆 & 主校区图书馆
+索书号       TP311.13 528.
+主要責任者   弗赖伊 fu lai yi (Fry, Ben) 著
+题名         可视化数据 ke shi hua shu ju = Visualizing data (美) 
+               Ben Fry著 张羽译 eng.
+题名         Visualizing data Chinese.
+出版发行     北京 电子工业出版社 2009.
+载体形态     366页, [4] 页图版 图 24cm.
+附注         由O'Reilly Media, Inc.授权电子工业出版社出版
+附注         据O'Reilly Media, Inc. 2008年英文版译出
+附注         责任者规范汉译姓: 弗赖伊
+附注         有书目 (第345-348页) 和索引
+主题         数据采集 shu ju cai ji.
+其他责任者   张羽 zhang yu 译
+国际标准号   978-7-121-08279-5 CNY65.00.
+1 > 中文图书阅览室（C区2楼  TP311.13 528                   馆内阅览
+2 > 流通书库(B区)           TP311.13 528                   在架上
+3 > 东校区分馆阅览室        TP311.13 528                   馆内阅览
+4 > 东校区分馆借还处        TP311.13 528                   在架上
+
+第8条记录, 共10条
+館藏地       主校区图书馆
+索书号       TP391.41 6416.
+主要責任者   邱南森 qiu nan sen (Yau, Nathan) 著
+题名         数据之美 shu ju zhi mei 一本书学会可视化设计 (美) 
+               邱南森著 = Data points visualization that means something 
+               Nathan Yau 张伸译 eng.
+题名         Data points : visualization that means something 
+               Chinese.
+出版发行     北京 中国人民大学出版社 2014.
+载体形态     277页 图 (部分彩图) 23cm.
+附注         本书据John Wiley & Sons, Inc. 2013年英文版译出
+附注         本书经约翰·威立父子公司授权出版发行
+附注         
+               本书让读者可以知道如何理解数据、如何探索数据的模式和寻找数据
+               间的关联、如何选择合适的可视化方式,
+               以及有哪些我们可以利用的可视化工具和这些工具各有怎样的利弊。
+               从中我们也能学会如何权衡利弊,将这些工具结合起来,
+               将优势发挥到极致,最大化帮助我们挖掘数字背后的信息,
+               让数据开口说话。书中作者给我们提供了丰富的可视化信息以及查看
+               、探索数据的多元视角,以丰富我们对于数据、对于可视化的认知。
+主题         数据处理 shu ju chu li 图形显示
+其他责任者   张伸 zhang shen 译
+国际标准号   978-7-300-18612-2 CNY89.00.
+1 > 中文图书阅览室（C区2楼  TP391.41 6416                  馆内阅览
+2 > 流通书库(B区)           TP391.41 6416                  到期 16-01-08
+3 > 流通书库(B区)           TP391.41 6416                  在架上
+4 > 流通书库(B区)           TP391.41 6416                  到期 16-01-19
+
+第9条记录, 共10条
+館藏地       主校区图书馆
+索书号       F713.8 556.
+主要責任者   克鲁姆 Ke Lu Mu (Krum, Randy) 著
+题名         可视化沟通 Ke Shi Hua Gou Tong 用信息图表设计让数据说话
+               = Cool infographics effective communication with data 
+               visualization and design (美) Randy Krum著 唐沁, 周优游, 
+               张璐露译 eng.
+题名         Cool infographics : effective communication with data 
+               visualization and design Chinese.
+出版发行     北京 电子工业出版社 2014.
+载体形态     XIX, 307页 彩图 24cm.
+附注         由美国John Wiley & Sons, Inc.公司授权出版
+附注         责任者Krum规范汉译姓: 克鲁姆
+附注         
+               本书中回答了信息图和数据可视化为什么是有效的；分享了绘制精美
+               信息图的工具和技巧；涵盖了用于营销的网络信息图，其中还包括社
+               交媒体使用和搜索引擎优化；介绍了如何用视觉元素和信息图简历来
+               推销自己；探讨了信息图简历在企业内部的使用案例，其中包括董事
+               会议演示、年报、客户调查报告、营销策略、公司规划，以及用信息
+               图向客户介绍公司的产品和服务。通过这本书，你会学到如何用创造
+               性的视觉设计技巧帮助记忆信息、如何用信息图和自己的目标受众进
+               行有效沟通，并用你的数据讲出一个好故事。
+主题         商业 Shang Ye 图表 演示法
+其他责任者   唐沁 Tang Qin 译
+其他责任者   周优游 Zhou You You 译
+其他责任者   张璐露 Zhang Lu Lu 译
+相关题名     用信息图表设计让数据说话 Yong Xin Xi Tu Biao 
+               She Ji Rang Shu Ju Shuo Hua.
+国际标准号   978-7-121-24096-6 CNY98.00.
+馆藏         北京新华书店首都发行所有限公司提供采访数据
+1 > 中文图书阅览室（C区2楼  F713.8 556                     馆内阅览
+2 > 流通书库(B区)           F713.8 556                     上架中
+
+第10条记录, 共10条
+館藏地       东校区图书馆 & 主校区图书馆
+索书号       TP274 254.
+主要責任者   斯米克莱斯 Simikelaisi (Smiciklas, Mark)
+               著
+题名         视不可当 Shi Bu Ke Dang 信息图与可视化传播 = The power 
+               of infographics using pictures to communicate and connect with 
+               your audiences (加) Mark Smiciklas著 项婷婷, 张东宁译 eng.
+题名         Power of infographics : using pictures to communicate 
+               and connect with your audiences Chinese.
+出版发行     北京 人民邮电出版社 2013.
+载体形态     190页 彩图 21cm.
+丛编         图灵交互设计丛书 Tu Ling Jiao Hu She Ji Cong Shu.
+丛编         2001  图灵交互设计丛书
+附注         由Pearson Education Inc.授权出版
+附注         责任者Smiciklas规范汉译姓: 斯米克莱斯
+附注         
+               本书是针对数字营销和社会化媒体领域的实用图书。书中介绍了数据
+               可视化在信息传播过程中的美学和商业价值，为读者呈现了各类可视
+               化数据和概念，并分步骤解读了如何创建和发布信息图，从而达到利
+               用可视化信息与人沟通的目的，并帮助企业制定最佳的营销战略，更
+               好地树立品牌形象。
+主题         数据收集 Shu Ju Shou Ji.
+其他责任者   项婷婷 Xiang Ting Ting 译
+其他责任者   张东宁 Zhang Dong Ning 译
+相关题名     信息图与可视化传播 Xin Xi Tu Yu Ke Shi Hua 
+               Chuan Bo.
+国际标准号   978-7-115-31380-5 CNY39.00.
+1 > 中文图书阅览室（C区2楼  TP274 254                      馆内阅览
+2 > 流通书库(B区)           TP274 254                      上架中
+3 > 流通书库(B区)           TP274 254                      到期 15-12-25
+4 > 东校区分馆阅览室        TP274 254                      馆内阅览
+5 > 东校区分馆借还处        TP274 254                      在架上
